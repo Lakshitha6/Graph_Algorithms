@@ -1,5 +1,11 @@
 # Graph Traversal Algorithms
 
+### Graph 
+
+<img width="1175" height="571" alt="graph" src="https://github.com/user-attachments/assets/ca1de59c-f15a-4ac4-ae53-146e344dcefa" />
+
+
+
 ## BFS (Breadth-First Search) Execution Flow
 
 The Broad-First Search algorithm in `bfs.py` implementation follows these steps:
